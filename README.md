@@ -1,2 +1,2 @@
 # firstRepository
-This is my first repository that contains all of the Udemy: 50 JavaScript project course
+This repository contians all my projects from the Udemy course.
