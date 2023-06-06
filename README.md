@@ -1,2 +1,2 @@
 # firstRepository
-This repository contians all my projects from the Udemy course.
+This repository contians all of my projects from the Udemy course.
